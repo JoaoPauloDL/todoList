@@ -56,10 +56,17 @@ button {
 
 
 button:hover {
-  color: #FCFCFC; 
+  color: rgb(85, 163, 85); 
   background-color:  #302b63;
   transform: scale(1.05);
   
+}
+
+.remove {
+  color: rgb(180, 65, 23);
+}
+.remove:hover{
+  color: #fcfcfcbd;
 }
 
 input, select {

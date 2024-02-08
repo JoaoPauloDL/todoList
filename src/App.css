@@ -3,7 +3,8 @@ body {
   background-color: #f4f4f4;
   padding: 30px;
   color: #fcfcfcbd;
-  background: linear-gradient(to bottom, #0F0C29, #302b63);
+  background: linear-gradient(to bottom, #030011, #04071d);
+
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -14,8 +15,7 @@ body {
   max-width: 600px;
   margin: 0 auto 300px;
   padding: 20px 30px;
-  border: 2px solid transparent; 
-  border-image: linear-gradient(to right, #2c3e50, #8e44ad);
+  border: 2px solid  #fcfcfcbd; 
   border-image-slice: 1; 
   padding: 20px;
   border-radius: 10px;
@@ -69,8 +69,8 @@ button:hover {
 }
 
 .todo {
-  background-color: #262153;
-  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  background-color: #03071f;
+  box-shadow: 0 0 20px rgba(36, 19, 19, 0.1);
   padding: 10px;
   margin-bottom: 10px;
   display: flex;

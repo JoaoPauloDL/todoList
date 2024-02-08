@@ -92,10 +92,15 @@ input, select {
   border-radius: 3px;
   width: 100%;
 }
-.asc {
+.ascd {
   color: rgb(85, 163, 85) ;
 
 }
+.ascd:hover{
+  color:white ;
+
+}
+
 
 .order-buttons button{
   margin-right: 10px;

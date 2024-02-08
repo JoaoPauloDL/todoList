@@ -92,3 +92,28 @@ input, select {
   border-radius: 3px;
   width: 100%;
 }
+.asc {
+  color: rgb(85, 163, 85) ;
+
+}
+
+.order-buttons button{
+  margin-right: 10px;
+}
+
+
+.filter, .search {
+  border-bottom: 1px solid #fcfcfcbd ;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.filter-options {
+  display: flex;
+  justify-content: space-between;
+  gap: 12rem;
+}
+
+.filter-options div{
+  flex: 1 1 0;
+}
